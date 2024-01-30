@@ -1,9 +1,8 @@
 # Olist E-Commerce Customer Clustering
 Team Members:
 
-- Omar Charis Atthabrizi
-- Muhamad Aris Margono
-
+- [Omar Charis Atthabrizi](https://github.com/atthabrizi)
+- [Muhamad Aris Margono](https://github.com/muharismrgn)
 
 # Context
 **What is Olist?**
